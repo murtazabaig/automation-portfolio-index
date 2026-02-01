@@ -6,6 +6,10 @@
 
 Curated collection of 50 advanced automation workflows. Each item links to its dedicated repository with workflow JSON, metadata, and setup instructions.
 
+## Author
+
+Murtaza Baig
+
 ## Index
 
 - [ai-powered-content-factory-rss-to-blog-instagram-tiktok-with-slack-approval](https://github.com/murtazabaig/ai-powered-content-factory-rss-to-blog-instagram-tiktok-with-slack-approval) ? Advanced n8n automation for AI-Powered Content Factory: RSS to Blog, Instagram & TikTok with Slack Approval.
@@ -58,3 +62,4 @@ Curated collection of 50 advanced automation workflows. Each item links to its d
 - [simple-scheduling-and-internal-document-query-bot-with-telegram](https://github.com/murtazabaig/simple-scheduling-and-internal-document-query-bot-with-telegram) ? Advanced n8n automation for Simple Scheduling and Internal Document Query Bot with Telegram.
 - [synchronize-mysql-database-schemas-to-pinecone-with-openai-embeddings](https://github.com/murtazabaig/synchronize-mysql-database-schemas-to-pinecone-with-openai-embeddings) ? Advanced n8n automation for Synchronize MySQL database schemas to Pinecone with OpenAI embeddings.
 - [telegram-support-bot-with-openai-pinecone-and-human-expert-escalation](https://github.com/murtazabaig/telegram-support-bot-with-openai-pinecone-and-human-expert-escalation) ? Advanced n8n automation for Telegram Support Bot with OpenAI, Pinecone and Human Expert Escalation.
+
